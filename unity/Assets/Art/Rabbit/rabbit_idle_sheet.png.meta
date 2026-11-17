@@ -1,0 +1,2223 @@
+fileFormatVersion: 2
+guid: d0d3e2ab6fa72983a808a914ccbbd271
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2131003794450206860
+    second: rabbit_idle_sheet_0
+  - first:
+      213: 7394105239310784443
+    second: rabbit_idle_sheet_1
+  - first:
+      213: 1695918895768232724
+    second: rabbit_idle_sheet_2
+  - first:
+      213: 253213435554779809
+    second: rabbit_idle_sheet_3
+  - first:
+      213: 3611639718421937211
+    second: rabbit_idle_sheet_4
+  - first:
+      213: -3974308936849489249
+    second: rabbit_idle_sheet_5
+  - first:
+      213: 1813946144052110841
+    second: rabbit_idle_sheet_6
+  - first:
+      213: 1580829004836002618
+    second: rabbit_idle_sheet_7
+  - first:
+      213: 2836208543148493233
+    second: rabbit_idle_sheet_8
+  - first:
+      213: -6829112664485479335
+    second: rabbit_idle_sheet_9
+  - first:
+      213: 764932726984501717
+    second: rabbit_idle_sheet_10
+  - first:
+      213: -4522179706386088368
+    second: rabbit_idle_sheet_11
+  - first:
+      213: -1546473245135942239
+    second: rabbit_idle_sheet_12
+  - first:
+      213: 9013307272550180098
+    second: rabbit_idle_sheet_13
+  - first:
+      213: -547181302074885220
+    second: rabbit_idle_sheet_14
+  - first:
+      213: -2120356742495241126
+    second: rabbit_idle_sheet_15
+  - first:
+      213: 1876789434985419403
+    second: rabbit_idle_sheet_16
+  - first:
+      213: -3205531284912563163
+    second: rabbit_idle_sheet_17
+  - first:
+      213: 6726235438008618607
+    second: rabbit_idle_sheet_18
+  - first:
+      213: 6286884867430444479
+    second: rabbit_idle_sheet_19
+  - first:
+      213: -2462701536822621509
+    second: rabbit_idle_sheet_20
+  - first:
+      213: -9167055856059695219
+    second: rabbit_idle_sheet_21
+  - first:
+      213: -4231678081121744191
+    second: rabbit_idle_sheet_22
+  - first:
+      213: -4303580710106485022
+    second: rabbit_idle_sheet_23
+  - first:
+      213: -6702955844309717454
+    second: rabbit_idle_sheet_24
+  - first:
+      213: 2496209081627091620
+    second: rabbit_idle_sheet_25
+  - first:
+      213: -1169603923667258974
+    second: rabbit_idle_sheet_26
+  - first:
+      213: 5787978861580651921
+    second: rabbit_idle_sheet_27
+  - first:
+      213: -157148935003119182
+    second: rabbit_idle_sheet_28
+  - first:
+      213: -405411448527280085
+    second: rabbit_idle_sheet_29
+  - first:
+      213: 1976873413526323161
+    second: rabbit_idle_sheet_30
+  - first:
+      213: -4816893730658005040
+    second: rabbit_idle_sheet_31
+  - first:
+      213: -8788166354422931364
+    second: rabbit_idle_sheet_32
+  - first:
+      213: 2160160776454063312
+    second: rabbit_idle_sheet_33
+  - first:
+      213: 8152787996313777216
+    second: rabbit_idle_sheet_34
+  - first:
+      213: 4422609243480080985
+    second: rabbit_idle_sheet_35
+  - first:
+      213: -4211420617905216589
+    second: rabbit_idle_sheet_36
+  - first:
+      213: 3268333686652349836
+    second: rabbit_idle_sheet_37
+  - first:
+      213: -5426220524887869636
+    second: rabbit_idle_sheet_38
+  - first:
+      213: -1665352830054837436
+    second: rabbit_idle_sheet_39
+  - first:
+      213: -5624934573902941123
+    second: rabbit_idle_sheet_40
+  - first:
+      213: 5649173893702165360
+    second: rabbit_idle_sheet_41
+  - first:
+      213: 6500902598210512107
+    second: rabbit_idle_sheet_42
+  - first:
+      213: 7197558713499206080
+    second: rabbit_idle_sheet_43
+  - first:
+      213: 148616278061642983
+    second: rabbit_idle_sheet_44
+  - first:
+      213: 6188410686735356877
+    second: rabbit_idle_sheet_45
+  - first:
+      213: -7245600707377493123
+    second: rabbit_idle_sheet_46
+  - first:
+      213: -1398376902073124478
+    second: rabbit_idle_sheet_47
+  - first:
+      213: -3175901145301697430
+    second: rabbit_idle_sheet_48
+  - first:
+      213: -1445038343377083977
+    second: rabbit_idle_sheet_49
+  - first:
+      213: -3817487184040479256
+    second: rabbit_idle_sheet_50
+  - first:
+      213: -3787319798479300902
+    second: rabbit_idle_sheet_51
+  - first:
+      213: 8258507865405920435
+    second: rabbit_idle_sheet_52
+  - first:
+      213: 474756006461253253
+    second: rabbit_idle_sheet_53
+  - first:
+      213: -3091041617637001887
+    second: rabbit_idle_sheet_54
+  - first:
+      213: -1190699087891541167
+    second: rabbit_idle_sheet_55
+  - first:
+      213: -6808226719230019461
+    second: rabbit_idle_sheet_56
+  - first:
+      213: 2237925680398563785
+    second: rabbit_idle_sheet_57
+  - first:
+      213: -3260327383730002816
+    second: rabbit_idle_sheet_58
+  - first:
+      213: 2318879315666665324
+    second: rabbit_idle_sheet_59
+  - first:
+      213: -2259562274276867576
+    second: rabbit_idle_sheet_60
+  - first:
+      213: 6682120241588008703
+    second: rabbit_idle_sheet_61
+  - first:
+      213: -8361814320501976955
+    second: rabbit_idle_sheet_62
+  - first:
+      213: -4502669967986613326
+    second: rabbit_idle_sheet_63
+  - first:
+      213: -5613813570751246360
+    second: rabbit_idle_sheet_64
+  - first:
+      213: -2908505549297083122
+    second: rabbit_idle_sheet_65
+  - first:
+      213: 726025915230469469
+    second: rabbit_idle_sheet_66
+  - first:
+      213: -6116840005821512688
+    second: rabbit_idle_sheet_67
+  - first:
+      213: 255019882363148381
+    second: rabbit_idle_sheet_68
+  - first:
+      213: 7280568411819614787
+    second: rabbit_idle_sheet_69
+  - first:
+      213: -2929299481208904721
+    second: rabbit_idle_sheet_70
+  - first:
+      213: -2756883947172940346
+    second: rabbit_idle_sheet_71
+  - first:
+      213: 295284082910066083
+    second: rabbit_idle_sheet_72
+  - first:
+      213: -2538569920220710128
+    second: rabbit_idle_sheet_73
+  - first:
+      213: -1466798778101949362
+    second: rabbit_idle_sheet_74
+  - first:
+      213: -8133463453402561154
+    second: rabbit_idle_sheet_75
+  - first:
+      213: -7886601383567419032
+    second: rabbit_idle_sheet_76
+  - first:
+      213: 3347801560172063666
+    second: rabbit_idle_sheet_77
+  - first:
+      213: 4782561899828109755
+    second: rabbit_idle_sheet_78
+  - first:
+      213: 7039957208220640986
+    second: rabbit_idle_sheet_79
+  - first:
+      213: -7750080360661837183
+    second: rabbit_idle_sheet_80
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3202
+        width: 375
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f29c8e6572d62e0800000000000000
+      internalID: -2131003794450206860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 3202
+        width: 375
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb759fc1a832d9660800000000000000
+      internalID: 7394105239310784443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 3202
+        width: 375
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4136326104d198710800000000000000
+      internalID: 1695918895768232724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 3202
+        width: 375
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2599e2748938300800000000000000
+      internalID: 253213435554779809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 3202
+        width: 375
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c3b39403f1f1230800000000000000
+      internalID: 3611639718421937211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 3203
+        width: 375
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f920d67241b68d8c0800000000000000
+      internalID: -3974308936849489249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 3203
+        width: 374
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f56ae5486e6c2910800000000000000
+      internalID: 1813946144052110841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 3203
+        width: 374
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b52e3ba9b30f510800000000000000
+      internalID: 1580829004836002618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 3203
+        width: 374
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b94b43a4ac3c5720800000000000000
+      internalID: 2836208543148493233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2803
+        width: 373
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cb83eb63e1a31a0800000000000000
+      internalID: -6829112664485479335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2803
+        width: 372
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d96bfc23469d9a00800000000000000
+      internalID: 764932726984501717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2803
+        width: 371
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e706e348dfd31c0800000000000000
+      internalID: -4522179706386088368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 2803
+        width: 369
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1adc601f6c2d98ae0800000000000000
+      internalID: -1546473245135942239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 2803
+        width: 368
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2056cc7b533b51d70800000000000000
+      internalID: 9013307272550180098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 2803
+        width: 366
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b371e31850868f0800000000000000
+      internalID: -547181302074885220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 2803
+        width: 365
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c777ed6caf292e0800000000000000
+      internalID: -2120356742495241126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 2803
+        width: 364
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8213862c02bb0a10800000000000000
+      internalID: 1876789434985419403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 2803
+        width: 363
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c926ea74aa383d0800000000000000
+      internalID: -3205531284912563163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2403
+        width: 363
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ec5266e73685d50800000000000000
+      internalID: 6726235438008618607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2403
+        width: 362
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd68f24a708f3750800000000000000
+      internalID: 6286884867430444479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2403
+        width: 362
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba01ed000ab2ddd0800000000000000
+      internalID: -2462701536822621509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 2403
+        width: 362
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8fb56f944318c080800000000000000
+      internalID: -9167055856059695219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 2403
+        width: 362
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca8ee2a43f0645c0800000000000000
+      internalID: -4231678081121744191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 2403
+        width: 362
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee21ef352c9644c0800000000000000
+      internalID: -4303580710106485022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 2403
+        width: 362
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e6ac26c215af2a0800000000000000
+      internalID: -6702955844309717454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 2403
+        width: 363
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2ac7b2fe054a220800000000000000
+      internalID: 2496209081627091620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 2403
+        width: 364
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1f8e1ad6bb4cfe0800000000000000
+      internalID: -1169603923667258974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2003
+        width: 364
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d0cfbcb18035050800000000000000
+      internalID: 5787978861580651921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2003
+        width: 365
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1ee4050e1b1ddf0800000000000000
+      internalID: -157148935003119182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2003
+        width: 366
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28a7ae7f60bf5af0800000000000000
+      internalID: -405411448527280085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 2003
+        width: 368
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df762b45e34f6b10800000000000000
+      internalID: 1976873413526323161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 2003
+        width: 369
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfc2574ca4f62db0800000000000000
+      internalID: -4816893730658005040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 2003
+        width: 371
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50e49923492a0680800000000000000
+      internalID: -8788166354422931364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 2003
+        width: 372
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4c64af7ce6afd10800000000000000
+      internalID: 2160160776454063312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 2003
+        width: 373
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044f951cc75842170800000000000000
+      internalID: 8152787996313777216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 2003
+        width: 373
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9524df9cca3406d30800000000000000
+      internalID: 4422609243480080985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1602
+        width: 374
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3e006d2470e85c0800000000000000
+      internalID: -4211420617905216589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1602
+        width: 374
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d2b50fb247b5d20800000000000000
+      internalID: 3268333686652349836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1602
+        width: 374
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37ff159e2132b4b0800000000000000
+      internalID: -5426220524887869636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1602
+        width: 375
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443d3eaac6a73e8e0800000000000000
+      internalID: -1665352830054837436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1602
+        width: 375
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34b3b5aec730f1b0800000000000000
+      internalID: -5624934573902941123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 1602
+        width: 375
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0732788c9b5e56e40800000000000000
+      internalID: 5649173893702165360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 1602
+        width: 375
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be460c54878d73a50800000000000000
+      internalID: 6500902598210512107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 1602
+        width: 375
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c14320048dd2e360800000000000000
+      internalID: 7197558713499206080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 1602
+        width: 375
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e474bda7bdff0200800000000000000
+      internalID: 148616278061642983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1203
+        width: 375
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc397136bb6a1e550800000000000000
+      internalID: 6188410686735356877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1203
+        width: 374
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b0274ab84727b90800000000000000
+      internalID: -7245600707377493123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1203
+        width: 374
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289f1d1dd97f79ce0800000000000000
+      internalID: -1398376902073124478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1203
+        width: 374
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c39882cbeece3d0800000000000000
+      internalID: -3175901145301697430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1203
+        width: 373
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1a038684132fbe0800000000000000
+      internalID: -1445038343377083977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 1203
+        width: 373
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e539acc1af850bc0800000000000000
+      internalID: -3817487184040479256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 1203
+        width: 372
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad656d895bcb07bc0800000000000000
+      internalID: -3787319798479300902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 1203
+        width: 370
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b41a4ce52d1c9270800000000000000
+      internalID: 8258507865405920435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 1203
+        width: 368
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5862b10921ca69600800000000000000
+      internalID: 474756006461253253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 803
+        width: 367
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1653cca960a6a15d0800000000000000
+      internalID: -3091041617637001887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 803
+        width: 366
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153d7d7fc79c97fe0800000000000000
+      internalID: -1190699087891541167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 803
+        width: 364
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78b8f1ded15481a0800000000000000
+      internalID: -6808226719230019461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 803
+        width: 364
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c971ed9c85be0f10800000000000000
+      internalID: 2237925680398563785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 803
+        width: 363
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0846b49b48df0c2d0800000000000000
+      internalID: -3260327383730002816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 803
+        width: 362
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fff4f93705e2020800000000000000
+      internalID: 2318879315666665324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 803
+        width: 362
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8028add451c64a0e0800000000000000
+      internalID: -2259562274276867576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 803
+        width: 362
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6fc42d4f8abbc50800000000000000
+      internalID: 6682120241588008703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 803
+        width: 362
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58094b4ad2ed4fb80800000000000000
+      internalID: -8361814320501976955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 403
+        width: 362
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3a651358d4381c0800000000000000
+      internalID: -4502669967986613326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 403
+        width: 363
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efca18fc4ab712b0800000000000000
+      internalID: -5613813570751246360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 403
+        width: 363
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d15e2ec99e2a7d0800000000000000
+      internalID: -2908505549297083122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 403
+        width: 364
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d3a0729bc531a00800000000000000
+      internalID: 726025915230469469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 403
+        width: 365
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0144c115c6e9c1ba0800000000000000
+      internalID: -6116840005821512688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 403
+        width: 366
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58daea5b330a8300800000000000000
+      internalID: 255019882363148381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 403
+        width: 367
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342207d7566c90560800000000000000
+      internalID: 7280568411819614787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 403
+        width: 369
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3aec554a90957d0800000000000000
+      internalID: -2929299481208904721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 403
+        width: 370
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5b7c918a49db9d0800000000000000
+      internalID: -2756883947172940346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3
+        width: 372
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a57ea51f4f091400800000000000000
+      internalID: 295284082910066083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 3
+        width: 372
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01bb0c38b1035ccd0800000000000000
+      internalID: -2538569920220710128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 3
+        width: 373
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c91426842e4abe0800000000000000
+      internalID: -1466798778101949362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 3
+        width: 373
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7581520512202f80800000000000000
+      internalID: -8133463453402561154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 2
+        width: 374
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8691c5f93d92d8290800000000000000
+      internalID: -7886601383567419032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 2
+        width: 374
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbed8418c7c57e20800000000000000
+      internalID: 3347801560172063666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 2
+        width: 374
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1629375b21f5240800000000000000
+      internalID: 4782561899828109755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 2
+        width: 375
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad621f518c3f2b160800000000000000
+      internalID: 7039957208220640986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_idle_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 2
+        width: 375
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a150249fe227490800000000000000
+      internalID: -7750080360661837183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rabbit_idle_sheet_0: -2131003794450206860
+      rabbit_idle_sheet_1: 7394105239310784443
+      rabbit_idle_sheet_10: 764932726984501717
+      rabbit_idle_sheet_11: -4522179706386088368
+      rabbit_idle_sheet_12: -1546473245135942239
+      rabbit_idle_sheet_13: 9013307272550180098
+      rabbit_idle_sheet_14: -547181302074885220
+      rabbit_idle_sheet_15: -2120356742495241126
+      rabbit_idle_sheet_16: 1876789434985419403
+      rabbit_idle_sheet_17: -3205531284912563163
+      rabbit_idle_sheet_18: 6726235438008618607
+      rabbit_idle_sheet_19: 6286884867430444479
+      rabbit_idle_sheet_2: 1695918895768232724
+      rabbit_idle_sheet_20: -2462701536822621509
+      rabbit_idle_sheet_21: -9167055856059695219
+      rabbit_idle_sheet_22: -4231678081121744191
+      rabbit_idle_sheet_23: -4303580710106485022
+      rabbit_idle_sheet_24: -6702955844309717454
+      rabbit_idle_sheet_25: 2496209081627091620
+      rabbit_idle_sheet_26: -1169603923667258974
+      rabbit_idle_sheet_27: 5787978861580651921
+      rabbit_idle_sheet_28: -157148935003119182
+      rabbit_idle_sheet_29: -405411448527280085
+      rabbit_idle_sheet_3: 253213435554779809
+      rabbit_idle_sheet_30: 1976873413526323161
+      rabbit_idle_sheet_31: -4816893730658005040
+      rabbit_idle_sheet_32: -8788166354422931364
+      rabbit_idle_sheet_33: 2160160776454063312
+      rabbit_idle_sheet_34: 8152787996313777216
+      rabbit_idle_sheet_35: 4422609243480080985
+      rabbit_idle_sheet_36: -4211420617905216589
+      rabbit_idle_sheet_37: 3268333686652349836
+      rabbit_idle_sheet_38: -5426220524887869636
+      rabbit_idle_sheet_39: -1665352830054837436
+      rabbit_idle_sheet_4: 3611639718421937211
+      rabbit_idle_sheet_40: -5624934573902941123
+      rabbit_idle_sheet_41: 5649173893702165360
+      rabbit_idle_sheet_42: 6500902598210512107
+      rabbit_idle_sheet_43: 7197558713499206080
+      rabbit_idle_sheet_44: 148616278061642983
+      rabbit_idle_sheet_45: 6188410686735356877
+      rabbit_idle_sheet_46: -7245600707377493123
+      rabbit_idle_sheet_47: -1398376902073124478
+      rabbit_idle_sheet_48: -3175901145301697430
+      rabbit_idle_sheet_49: -1445038343377083977
+      rabbit_idle_sheet_5: -3974308936849489249
+      rabbit_idle_sheet_50: -3817487184040479256
+      rabbit_idle_sheet_51: -3787319798479300902
+      rabbit_idle_sheet_52: 8258507865405920435
+      rabbit_idle_sheet_53: 474756006461253253
+      rabbit_idle_sheet_54: -3091041617637001887
+      rabbit_idle_sheet_55: -1190699087891541167
+      rabbit_idle_sheet_56: -6808226719230019461
+      rabbit_idle_sheet_57: 2237925680398563785
+      rabbit_idle_sheet_58: -3260327383730002816
+      rabbit_idle_sheet_59: 2318879315666665324
+      rabbit_idle_sheet_6: 1813946144052110841
+      rabbit_idle_sheet_60: -2259562274276867576
+      rabbit_idle_sheet_61: 6682120241588008703
+      rabbit_idle_sheet_62: -8361814320501976955
+      rabbit_idle_sheet_63: -4502669967986613326
+      rabbit_idle_sheet_64: -5613813570751246360
+      rabbit_idle_sheet_65: -2908505549297083122
+      rabbit_idle_sheet_66: 726025915230469469
+      rabbit_idle_sheet_67: -6116840005821512688
+      rabbit_idle_sheet_68: 255019882363148381
+      rabbit_idle_sheet_69: 7280568411819614787
+      rabbit_idle_sheet_7: 1580829004836002618
+      rabbit_idle_sheet_70: -2929299481208904721
+      rabbit_idle_sheet_71: -2756883947172940346
+      rabbit_idle_sheet_72: 295284082910066083
+      rabbit_idle_sheet_73: -2538569920220710128
+      rabbit_idle_sheet_74: -1466798778101949362
+      rabbit_idle_sheet_75: -8133463453402561154
+      rabbit_idle_sheet_76: -7886601383567419032
+      rabbit_idle_sheet_77: 3347801560172063666
+      rabbit_idle_sheet_78: 4782561899828109755
+      rabbit_idle_sheet_79: 7039957208220640986
+      rabbit_idle_sheet_8: 2836208543148493233
+      rabbit_idle_sheet_80: -7750080360661837183
+      rabbit_idle_sheet_9: -6829112664485479335
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

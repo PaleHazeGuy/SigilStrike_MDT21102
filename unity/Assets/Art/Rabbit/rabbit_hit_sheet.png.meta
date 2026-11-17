@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 428143bc0dee845c2ac929de72ae0b1d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9071599499696908509
+    second: rabbit_hit_sheet_0
+  - first:
+      213: -6011527649877451872
+    second: rabbit_hit_sheet_1
+  - first:
+      213: 7030730449939428770
+    second: rabbit_hit_sheet_2
+  - first:
+      213: -9015377037650613090
+    second: rabbit_hit_sheet_3
+  - first:
+      213: 608816574949336997
+    second: rabbit_hit_sheet_4
+  - first:
+      213: 8497937875240023384
+    second: rabbit_hit_sheet_5
+  - first:
+      213: -2128363326690737246
+    second: rabbit_hit_sheet_6
+  - first:
+      213: -3396545740589267063
+    second: rabbit_hit_sheet_7
+  - first:
+      213: 8314964817652698999
+    second: rabbit_hit_sheet_8
+  - first:
+      213: -5998159788832505208
+    second: rabbit_hit_sheet_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rabbit_hit_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 402
+        width: 373
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8ab0c7eabc4ed70800000000000000
+      internalID: 9071599499696908509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_hit_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 402
+        width: 369
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab9d9fe373c29ca0800000000000000
+      internalID: -6011527649877451872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_hit_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 402
+        width: 367
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a57924081c229160800000000000000
+      internalID: 7030730449939428770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_hit_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 402
+        width: 367
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c2f9a8952f2e280800000000000000
+      internalID: -9015377037650613090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_hit_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 402
+        width: 370
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7a9330373f27800800000000000000
+      internalID: 608816574949336997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_hit_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2
+        width: 372
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855f409397dbee570800000000000000
+      internalID: 8497937875240023384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_hit_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2
+        width: 376
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a341a7b4d88672e0800000000000000
+      internalID: -2128363326690737246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_hit_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 2
+        width: 378
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9878fc405ab0dd0d0800000000000000
+      internalID: -3396545740589267063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_hit_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 2
+        width: 379
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f4f047270b46370800000000000000
+      internalID: 8314964817652698999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_hit_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 2
+        width: 380
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8824b90a37142cca0800000000000000
+      internalID: -5998159788832505208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rabbit_hit_sheet_0: 9071599499696908509
+      rabbit_hit_sheet_1: -6011527649877451872
+      rabbit_hit_sheet_2: 7030730449939428770
+      rabbit_hit_sheet_3: -9015377037650613090
+      rabbit_hit_sheet_4: 608816574949336997
+      rabbit_hit_sheet_5: 8497937875240023384
+      rabbit_hit_sheet_6: -2128363326690737246
+      rabbit_hit_sheet_7: -3396545740589267063
+      rabbit_hit_sheet_8: 8314964817652698999
+      rabbit_hit_sheet_9: -5998159788832505208
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
