@@ -2,21 +2,21 @@ using UnityEngine;
 
 public class SpriteTestController : MonoBehaviour
 {
-    [SerializeField] private SpriteSheetAnimator animator;
-    [SerializeField] private string hitClip = "hit";
+  [SerializeField] private SpriteSheetAnimator animator;
+  [SerializeField] private string Varient = "hit";
 
-    private IWandInput input;
+  private IWandInput input;
 
-    private void Awake()
+  private void Awake()
+  {
+    input = GetComponent<IWandInput>();
+  }
+
+  private void Update()
+  {
+    if (input.PatternPressedThisFrame)
     {
-        input = GetComponent<IWandInput>();
+      animator.Play(Varient);
     }
-
-    private void Update()
-    {
-        if (input.PatternPressedThisFrame)
-        {
-            animator.Play(hitClip);
-        }
-    }
+  }
 }
